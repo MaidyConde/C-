@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\C-\Clasess\Clasess\bin\Debug\net7.0\Clasess.exe
+C:\Users\SENA\Documents\C-\Clasess\Clasess\bin\Debug\net7.0\Clasess.deps.json
+C:\Users\SENA\Documents\C-\Clasess\Clasess\bin\Debug\net7.0\Clasess.runtimeconfig.json
+C:\Users\SENA\Documents\C-\Clasess\Clasess\bin\Debug\net7.0\Clasess.dll
+C:\Users\SENA\Documents\C-\Clasess\Clasess\bin\Debug\net7.0\Clasess.pdb
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.AssemblyInfo.cs
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.dll
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\refint\Clasess.dll
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.pdb
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\Clasess.genruntimeconfig.cache
+C:\Users\SENA\Documents\C-\Clasess\Clasess\obj\Debug\net7.0\ref\Clasess.dll

@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\bin\Debug\net7.0\asycAwait.exe
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\bin\Debug\net7.0\asycAwait.deps.json
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\bin\Debug\net7.0\asycAwait.runtimeconfig.json
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\bin\Debug\net7.0\asycAwait.dll
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\bin\Debug\net7.0\asycAwait.pdb
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.AssemblyInfo.cs
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.dll
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\refint\asycAwait.dll
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.pdb
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\asycAwait.genruntimeconfig.cache
+C:\Users\SENA\Documents\C-\exposicioness\asycAwait\obj\Debug\net7.0\ref\asycAwait.dll

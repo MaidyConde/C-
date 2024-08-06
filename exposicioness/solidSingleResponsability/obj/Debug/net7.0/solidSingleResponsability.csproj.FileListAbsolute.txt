@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.AssemblyInfo.cs
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\bin\Debug\net7.0\solidSingleResponsability.exe
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\bin\Debug\net7.0\solidSingleResponsability.deps.json
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\bin\Debug\net7.0\solidSingleResponsability.runtimeconfig.json
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\bin\Debug\net7.0\solidSingleResponsability.dll
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\bin\Debug\net7.0\solidSingleResponsability.pdb
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.dll
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\refint\solidSingleResponsability.dll
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.pdb
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\solidSingleResponsability.genruntimeconfig.cache
+C:\Users\SENA\Documents\C-\exposicioness\solidSingleResponsability\obj\Debug\net7.0\ref\solidSingleResponsability.dll

@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll

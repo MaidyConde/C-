@@ -1,0 +1,14 @@
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\bin\Debug\net8.0\herencia_abstracion.exe
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\bin\Debug\net8.0\herencia_abstracion.deps.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\bin\Debug\net8.0\herencia_abstracion.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\bin\Debug\net8.0\herencia_abstracion.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\bin\Debug\net8.0\herencia_abstracion.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\refint\herencia_abstracion.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\herencia_abstracion.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\herencia_abstracion\obj\Debug\net8.0\ref\herencia_abstracion.dll

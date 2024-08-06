@@ -1,0 +1,14 @@
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll

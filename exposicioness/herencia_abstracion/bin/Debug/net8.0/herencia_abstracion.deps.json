@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "herencia_abstracion/1.0.0": {
+        "runtime": {
+          "herencia_abstracion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "herencia_abstracion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

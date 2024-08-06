@@ -1,0 +1,14 @@
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\bin\Debug\net8.0\clases_interfaces.exe
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\bin\Debug\net8.0\clases_interfaces.deps.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\bin\Debug\net8.0\clases_interfaces.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\bin\Debug\net8.0\clases_interfaces.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\bin\Debug\net8.0\clases_interfaces.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\refint\clases_interfaces.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\clases_interfaces.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\clases_interfaces\obj\Debug\net8.0\ref\clases_interfaces.dll

@@ -1,0 +1,14 @@
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\bin\Debug\net8.0\encapsulamiento.exe
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\bin\Debug\net8.0\encapsulamiento.deps.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\bin\Debug\net8.0\encapsulamiento.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\bin\Debug\net8.0\encapsulamiento.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\bin\Debug\net8.0\encapsulamiento.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\refint\encapsulamiento.dll
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.pdb
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\encapsulamiento.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\exposicioness\encapsulamiento\obj\Debug\net8.0\ref\encapsulamiento.dll

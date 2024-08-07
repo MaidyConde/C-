@@ -1,0 +1,15 @@
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\bin\Debug\net8.0\solidDependencyInversion.exe
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\bin\Debug\net8.0\solidDependencyInversion.deps.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\bin\Debug\net8.0\solidDependencyInversion.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\bin\Debug\net8.0\solidDependencyInversion.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\bin\Debug\net8.0\solidDependencyInversion.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.sourcelink.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\refint\solidDependencyInversion.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\solidDependencyInversion.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidDependencyInversion\obj\Debug\net8.0\ref\solidDependencyInversion.dll

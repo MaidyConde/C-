@@ -1,0 +1,15 @@
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\bin\Debug\net8.0\solidLiskovSubsitution.exe
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\bin\Debug\net8.0\solidLiskovSubsitution.deps.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\bin\Debug\net8.0\solidLiskovSubsitution.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\bin\Debug\net8.0\solidLiskovSubsitution.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\bin\Debug\net8.0\solidLiskovSubsitution.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.sourcelink.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\refint\solidLiskovSubsitution.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\solidLiskovSubsitution.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidLiskovSubsitution\obj\Debug\net8.0\ref\solidLiskovSubsitution.dll

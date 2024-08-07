@@ -1,0 +1,15 @@
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\bin\Debug\net8.0\solidOpenClosed.exe
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\bin\Debug\net8.0\solidOpenClosed.deps.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\bin\Debug\net8.0\solidOpenClosed.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\bin\Debug\net8.0\solidOpenClosed.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\bin\Debug\net8.0\solidOpenClosed.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.sourcelink.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\refint\solidOpenClosed.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\solidOpenClosed.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidOpenClosed\obj\Debug\net8.0\ref\solidOpenClosed.dll

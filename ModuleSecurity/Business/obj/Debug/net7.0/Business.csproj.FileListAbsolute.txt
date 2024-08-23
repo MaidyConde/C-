@@ -1,0 +1,5 @@
+C:\Users\SENA\Documents\PruebaC#\moduleSecurity\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\PruebaC#\moduleSecurity\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\PruebaC#\moduleSecurity\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\PruebaC#\moduleSecurity\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Users\SENA\Documents\PruebaC#\moduleSecurity\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache

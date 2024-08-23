@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj": {}
+    "C:\\Users\\MAIDY CONDE\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj": {
+    "C:\\Users\\MAIDY CONDE\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj",
+        "projectUniqueName": "C:\\Users\\MAIDY CONDE\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj",
         "projectName": "encapsulamiento",
-        "projectPath": "C:\\Users\\SENA\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj",
-        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Documents\\C-\\exposicioness\\encapsulamiento\\obj\\",
+        "projectPath": "C:\\Users\\MAIDY CONDE\\Documents\\C-\\exposicioness\\encapsulamiento\\encapsulamiento.csproj",
+        "packagesPath": "C:\\Users\\MAIDY CONDE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAIDY CONDE\\Documents\\C-\\exposicioness\\encapsulamiento\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\MAIDY CONDE\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -38,11 +34,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

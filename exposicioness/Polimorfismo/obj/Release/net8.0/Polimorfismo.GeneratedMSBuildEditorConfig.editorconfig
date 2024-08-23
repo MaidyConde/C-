@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Polimorfismo
-build_property.ProjectDir = C:\Users\SENA\Documents\C-\exposicioness\Polimorfismo\
+build_property.ProjectDir = C:\Users\MAIDY CONDE\Documents\C-\exposicioness\Polimorfismo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

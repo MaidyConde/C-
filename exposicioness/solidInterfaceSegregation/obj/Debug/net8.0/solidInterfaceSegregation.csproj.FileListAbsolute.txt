@@ -1,0 +1,15 @@
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\bin\Debug\net8.0\solidInterfaceSegregation.exe
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\bin\Debug\net8.0\solidInterfaceSegregation.deps.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\bin\Debug\net8.0\solidInterfaceSegregation.runtimeconfig.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\bin\Debug\net8.0\solidInterfaceSegregation.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\bin\Debug\net8.0\solidInterfaceSegregation.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.AssemblyInfo.cs
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.sourcelink.json
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\refint\solidInterfaceSegregation.dll
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.pdb
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\solidInterfaceSegregation.genruntimeconfig.cache
+C:\Users\MAIDY CONDE\Documents\C-\exposicioness\solidInterfaceSegregation\obj\Debug\net8.0\ref\solidInterfaceSegregation.dll

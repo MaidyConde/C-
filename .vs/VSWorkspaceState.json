@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\exposicioness"
   ],
   "SelectedNode": "\\exposicioness\\exposicioness.sln",
+=======
+    "\\exposicioness",
+    "\\exposicioness\\Polimorfismo"
+  ],
+  "SelectedNode": "\\exposicioness\\Polimorfismo\\Program.cs",
+>>>>>>> a408f722ce89d222dfb0317e1632b5e01983c50f
   "PreviewInSolutionExplorer": false
 }

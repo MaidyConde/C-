@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\bin\Debug\net7.0\Liskov.exe
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\bin\Debug\net7.0\Liskov.deps.json
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\bin\Debug\net7.0\Liskov.runtimeconfig.json
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\bin\Debug\net7.0\Liskov.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\bin\Debug\net7.0\Liskov.pdb
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.AssemblyInfo.cs
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\refint\Liskov.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.pdb
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\Liskov.genruntimeconfig.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\Liskov\obj\Debug\net7.0\ref\Liskov.dll

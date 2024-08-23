@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\bin\Debug\net7.0\punto1.exe
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\bin\Debug\net7.0\punto1.deps.json
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\bin\Debug\net7.0\punto1.runtimeconfig.json
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\bin\Debug\net7.0\punto1.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\bin\Debug\net7.0\punto1.pdb
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.AssemblyInfo.cs
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\refint\punto1.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.pdb
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\punto1.genruntimeconfig.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\punto1\obj\Debug\net7.0\ref\punto1.dll

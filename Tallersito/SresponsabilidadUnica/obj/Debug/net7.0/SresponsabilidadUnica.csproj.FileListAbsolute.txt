@@ -1,0 +1,15 @@
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\bin\Debug\net7.0\SresponsabilidadUnica.exe
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\bin\Debug\net7.0\SresponsabilidadUnica.deps.json
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\bin\Debug\net7.0\SresponsabilidadUnica.runtimeconfig.json
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\bin\Debug\net7.0\SresponsabilidadUnica.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\bin\Debug\net7.0\SresponsabilidadUnica.pdb
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.AssemblyInfo.cs
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\refint\SresponsabilidadUnica.dll
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.pdb
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\SresponsabilidadUnica.genruntimeconfig.cache
+C:\Users\SENA\Documents\TallerC#\Tallersito\SresponsabilidadUnica\obj\Debug\net7.0\ref\SresponsabilidadUnica.dll

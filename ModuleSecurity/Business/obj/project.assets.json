@@ -3257,9 +3257,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Business\\obj\\",
       "projectStyle": "PackageReference",
@@ -3282,8 +3282,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj"
+            "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj"
             }
           }
         }

@@ -13,7 +13,6 @@ namespace Business.Interfaces
         Task<IEnumerable<PersonDto>> GetAll();
 
         //Task<IEnumerable<DataSelectDto>> GetAllSelect();
-
-        //Task<Personcs> GetByName(string name);
+        Task<Personcs> GetByName(string name);
     }
 }

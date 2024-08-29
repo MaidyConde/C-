@@ -51,6 +51,11 @@ namespace Business.Implements
             return personDto;
         }
 
+        public Task<Personcs> GetByName(string name)
+        {
+            throw new NotImplementedException();
+        }
+
         public Personcs mapearDatos(Personcs person, PersonDto entity)
         {
             person.Id = entity.Id;

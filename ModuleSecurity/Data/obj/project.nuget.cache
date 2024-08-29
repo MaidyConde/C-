@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UuViwtauYNss/bBWJo5gDxZV2GvJR+XZCQw6wx5jqqDuZfqhUYX8p6VZlboO6p8ZEjDnWweZT49CR7y/ehbgeg==",
+  "dgSpecHash": "9ay/FjlNhQl0yr/9VivTHJieom95+3SUx/FR2Yc4ExB3cMFfI0I8m1phA69/j50eCXBx/vf2OonhJzJrHyoFkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SENA\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\SENA\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

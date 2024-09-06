@@ -5,7 +5,7 @@ using Entity.Model.Security;
 
 namespace Business.Implements
 {
-    internal class RoleBusiness : IRoleBusiness
+    public class RoleBusiness : IRoleBusiness
     {
         protected readonly IRoleData data;
 

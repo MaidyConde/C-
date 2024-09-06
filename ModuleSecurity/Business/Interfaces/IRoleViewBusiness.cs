@@ -3,7 +3,7 @@ using Entity.Model.Security;
 
 namespace Business.Interfaces
 {
-    internal interface IRoleViewBusiness
+    public interface IRoleViewBusiness
     {
         Task Delete(int id);
         Task<RoleViewDto> GetById(int id);

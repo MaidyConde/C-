@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J0/AL8AsaJ6/WM7EgBiK0ljnJ3fUX/YyId7LDTBt/Lf4TjMKqLUZD+UBuFKEdIshsDu/SmviVZFQFs47GQt8CA==",
+  "dgSpecHash": "9y3/dNZoc7Oun7L6vwgPYe+lXGPTTsFno1dLp9uuLsjRM6dox2g6J65DAYV+V0e9avVlHyPMQ3toH0XaEPhsfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Utilities\\Utilities.csproj",
+  "projectFilePath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Utilities\\Utilities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

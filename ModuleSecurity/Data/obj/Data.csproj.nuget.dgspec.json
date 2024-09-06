@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj": {}
+    "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj": {
+    "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Entity\\Entity.csproj"
+              "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Entity\\Entity.csproj"
               }
             }
           }
@@ -67,12 +67,12 @@
         }
       }
     },
-    "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Entity\\Entity.csproj": {
+    "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\ModuleSecurity\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\SENA\\Documents\\PruebaC#\\moduleSecurity\\Entity\\obj\\",
         "projectStyle": "PackageReference",
@@ -128,6 +128,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"
             }

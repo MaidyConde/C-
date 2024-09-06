@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Data.Implements
 {
-    internal class RoleViewData : IRoleViewData
+    public class RoleViewData : IRoleViewData
     {
         private readonly ApplicationDBContext context;
         protected readonly IConfiguration configuration;
